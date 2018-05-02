@@ -1,3 +1,3 @@
-#put your path to your code here :
+#put the path to your python script here :
 cd d:/python/pythonBase64
 python b64e.py
